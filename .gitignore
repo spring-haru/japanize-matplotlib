@@ -1,5 +1,4 @@
 \build
-\dist
 \japanize_matplotlib.egg-info
 .DS_Store
 .git
