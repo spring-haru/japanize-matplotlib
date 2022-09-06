@@ -1,7 +1,13 @@
+.gitignore
+HISTORY.md
 LICENSE
 MANIFEST.in
 README.md
+demo.png
+demo.py
 setup.py
+dist/japanize-matplotlib-1.1.3.tar.gz
+dist/japanize_matplotlib-1.1.3-py3-none-any.whl
 japanize_matplotlib/__init__.py
 japanize_matplotlib/japanize_matplotlib.py
 japanize_matplotlib.egg-info/PKG-INFO
